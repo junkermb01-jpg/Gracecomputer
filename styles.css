@@ -60,12 +60,14 @@ nav ul li a {
 
 /* HERO */
 .hero {
-  background: url('hero-banner.png') center center/cover no-repeat;
+  background: url('hero-banner.png') center center/contain no-repeat;
   color: #fff;
   text-align: center;
   padding: 5rem 2rem;
+  min-height: 100vh; /* full screen height */
   position: relative;
 }
+
 
 .btn-primary, .btn-secondary {
   display: inline-block;
@@ -140,6 +142,7 @@ footer {
   background: #0a1f44;
   color: #fff;
 }
+
 
 
 
