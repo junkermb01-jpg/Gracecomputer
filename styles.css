@@ -60,7 +60,7 @@ nav ul li a {
 
 /* HERO */
 .hero {
-  background: url('hero-banner1.png') center center/cover no-repeat;
+  background: url('hero-banner.png') center center/cover no-repeat;
   color: #fff;
   text-align: center;
   padding: 5rem 2rem;
@@ -140,6 +140,7 @@ footer {
   background: #0a1f44;
   color: #fff;
 }
+
 
 
 
