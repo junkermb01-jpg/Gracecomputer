@@ -134,6 +134,10 @@ nav ul li a {
 .contact-details p {
   margin-bottom: 0.5rem;
 }
+.map-container {
+  grid-column: span 2;
+  margin-top: 2rem;
+}
 
 /* FOOTER */
 footer {
@@ -142,6 +146,7 @@ footer {
   background: #0a1f44;
   color: #fff;
 }
+
 
 
 
